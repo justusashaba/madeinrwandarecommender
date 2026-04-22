@@ -1,0 +1,401 @@
+sku,title,description,category,material,origin_district,price_rwf,artisan_id
+c1ad1eb2,Handmade leather Item 0,Authentic Rwandan leather made from Banana Leaf.,leather,Sisal,Nyamirambo,47468,ART-172
+aea971e0,Handmade leather Item 1,Authentic Rwandan leather made from Banana Leaf.,leather,Leather,Rubavu,47658,ART-109
+ac624557,Handmade basketry Item 2,Authentic Rwandan basketry made from Leather.,basketry,Beads,Musanze,29550,ART-133
+e01d684e,Handmade home-decor Item 3,Authentic Rwandan home-decor made from Beads.,home-decor,Wood,Musanze,24447,ART-172
+66bd64d9,Handmade leather Item 4,Authentic Rwandan leather made from Wood.,leather,Sisal,Huye,25153,ART-174
+11af36c7,Handmade jewellery Item 5,Authentic Rwandan jewellery made from Beads.,jewellery,Leather,Rubavu,25135,ART-184
+2bc5e6b8,Handmade leather Item 6,Authentic Rwandan leather made from Beads.,leather,Sisal,Huye,19374,ART-177
+063f8ba0,Handmade jewellery Item 7,Authentic Rwandan jewellery made from Sisal.,jewellery,Wood,Huye,13263,ART-191
+73090ac8,Handmade jewellery Item 8,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Leather,Huye,26125,ART-184
+7d537d92,Handmade home-decor Item 9,Authentic Rwandan home-decor made from Wood.,home-decor,Cotton,Huye,29032,ART-158
+13f6aaab,Handmade basketry Item 10,Authentic Rwandan basketry made from Wood.,basketry,Banana Leaf,Huye,46032,ART-163
+3c37d7c6,Handmade leather Item 11,Authentic Rwandan leather made from Leather.,leather,Sisal,Rubavu,41682,ART-109
+f444d8c2,Handmade apparel Item 12,Authentic Rwandan apparel made from Beads.,apparel,Sisal,Huye,27975,ART-133
+864a4040,Handmade basketry Item 13,Authentic Rwandan basketry made from Sisal.,basketry,Cotton,Musanze,48073,ART-174
+12587dc5,Handmade home-decor Item 14,Authentic Rwandan home-decor made from Banana Leaf.,home-decor,Wood,Musanze,45422,ART-166
+190a29fb,Handmade jewellery Item 15,Authentic Rwandan jewellery made from Wood.,jewellery,Banana Leaf,Rubavu,34277,ART-110
+3c893aaf,Handmade home-decor Item 16,Authentic Rwandan home-decor made from Leather.,home-decor,Beads,Huye,15821,ART-102
+1fee4375,Handmade basketry Item 17,Authentic Rwandan basketry made from Leather.,basketry,Sisal,Rubavu,33490,ART-182
+5d1a7c45,Handmade leather Item 18,Authentic Rwandan leather made from Banana Leaf.,leather,Sisal,Musanze,16755,ART-198
+306c0e6f,Handmade leather Item 19,Authentic Rwandan leather made from Wood.,leather,Leather,Huye,48418,ART-152
+ff8d61e9,Handmade home-decor Item 20,Authentic Rwandan home-decor made from Cotton.,home-decor,Beads,Musanze,25387,ART-129
+3a7e8edd,Handmade apparel Item 21,Authentic Rwandan apparel made from Wood.,apparel,Cotton,Nyamirambo,32186,ART-188
+3877c23b,Handmade jewellery Item 22,Authentic Rwandan jewellery made from Beads.,jewellery,Banana Leaf,Rubavu,29120,ART-141
+899702fb,Handmade apparel Item 23,Authentic Rwandan apparel made from Wood.,apparel,Leather,Musanze,26738,ART-122
+dc4f596d,Handmade basketry Item 24,Authentic Rwandan basketry made from Sisal.,basketry,Cotton,Rubavu,37658,ART-164
+a29dbd8f,Handmade home-decor Item 25,Authentic Rwandan home-decor made from Beads.,home-decor,Sisal,Musanze,31875,ART-135
+ee3b29cb,Handmade apparel Item 26,Authentic Rwandan apparel made from Banana Leaf.,apparel,Banana Leaf,Kigali,31046,ART-104
+c94cb076,Handmade leather Item 27,Authentic Rwandan leather made from Cotton.,leather,Wood,Kigali,40607,ART-199
+173fd8f0,Handmade apparel Item 28,Authentic Rwandan apparel made from Sisal.,apparel,Cotton,Nyamirambo,40733,ART-182
+1ab477ff,Handmade apparel Item 29,Authentic Rwandan apparel made from Cotton.,apparel,Beads,Musanze,15830,ART-161
+694891ff,Handmade home-decor Item 30,Authentic Rwandan home-decor made from Banana Leaf.,home-decor,Beads,Kigali,29187,ART-132
+ff24eca4,Handmade jewellery Item 31,Authentic Rwandan jewellery made from Cotton.,jewellery,Sisal,Nyamirambo,16141,ART-172
+b53a0efe,Handmade apparel Item 32,Authentic Rwandan apparel made from Sisal.,apparel,Sisal,Nyamirambo,35354,ART-189
+8750d361,Handmade basketry Item 33,Authentic Rwandan basketry made from Wood.,basketry,Cotton,Huye,10922,ART-102
+827143e8,Handmade basketry Item 34,Authentic Rwandan basketry made from Cotton.,basketry,Cotton,Musanze,32123,ART-162
+98f7c1a7,Handmade basketry Item 35,Authentic Rwandan basketry made from Leather.,basketry,Wood,Huye,42480,ART-118
+7e5e33ce,Handmade leather Item 36,Authentic Rwandan leather made from Beads.,leather,Leather,Rubavu,22825,ART-151
+e94654d2,Handmade apparel Item 37,Authentic Rwandan apparel made from Wood.,apparel,Banana Leaf,Nyamirambo,20812,ART-179
+35545d39,Handmade jewellery Item 38,Authentic Rwandan jewellery made from Leather.,jewellery,Wood,Kigali,47587,ART-103
+64e156dd,Handmade jewellery Item 39,Authentic Rwandan jewellery made from Sisal.,jewellery,Cotton,Nyamirambo,28174,ART-152
+8d27ddeb,Handmade basketry Item 40,Authentic Rwandan basketry made from Wood.,basketry,Cotton,Kigali,33947,ART-170
+791b1f28,Handmade leather Item 41,Authentic Rwandan leather made from Banana Leaf.,leather,Banana Leaf,Nyamirambo,23611,ART-106
+c8dadbeb,Handmade jewellery Item 42,Authentic Rwandan jewellery made from Sisal.,jewellery,Sisal,Nyamirambo,48631,ART-194
+1dff4c17,Handmade basketry Item 43,Authentic Rwandan basketry made from Beads.,basketry,Beads,Huye,44338,ART-151
+2865ac73,Handmade apparel Item 44,Authentic Rwandan apparel made from Cotton.,apparel,Sisal,Musanze,16810,ART-167
+5867fd08,Handmade basketry Item 45,Authentic Rwandan basketry made from Leather.,basketry,Cotton,Musanze,49910,ART-198
+d725d2a7,Handmade jewellery Item 46,Authentic Rwandan jewellery made from Sisal.,jewellery,Leather,Kigali,36076,ART-196
+1599a801,Handmade leather Item 47,Authentic Rwandan leather made from Sisal.,leather,Leather,Huye,18846,ART-101
+741251a5,Handmade apparel Item 48,Authentic Rwandan apparel made from Leather.,apparel,Cotton,Kigali,11308,ART-162
+20e49727,Handmade basketry Item 49,Authentic Rwandan basketry made from Sisal.,basketry,Sisal,Musanze,37046,ART-145
+35cc0b7b,Handmade basketry Item 50,Authentic Rwandan basketry made from Banana Leaf.,basketry,Leather,Rubavu,28115,ART-157
+7444495c,Handmade apparel Item 51,Authentic Rwandan apparel made from Banana Leaf.,apparel,Beads,Nyamirambo,49054,ART-121
+c563bb06,Handmade jewellery Item 52,Authentic Rwandan jewellery made from Cotton.,jewellery,Wood,Rubavu,21149,ART-173
+5c2d3a0f,Handmade basketry Item 53,Authentic Rwandan basketry made from Cotton.,basketry,Cotton,Kigali,45678,ART-136
+e8a64055,Handmade leather Item 54,Authentic Rwandan leather made from Wood.,leather,Banana Leaf,Kigali,7975,ART-138
+9abc91ac,Handmade basketry Item 55,Authentic Rwandan basketry made from Banana Leaf.,basketry,Leather,Kigali,19754,ART-196
+c3d889d3,Handmade apparel Item 56,Authentic Rwandan apparel made from Banana Leaf.,apparel,Leather,Huye,28170,ART-168
+8e2c318f,Handmade leather Item 57,Authentic Rwandan leather made from Leather.,leather,Leather,Kigali,47316,ART-186
+c5a3a79c,Handmade jewellery Item 58,Authentic Rwandan jewellery made from Sisal.,jewellery,Wood,Kigali,34875,ART-177
+b95d79b1,Handmade leather Item 59,Authentic Rwandan leather made from Sisal.,leather,Beads,Rubavu,11562,ART-126
+c87df7a7,Handmade jewellery Item 60,Authentic Rwandan jewellery made from Beads.,jewellery,Wood,Huye,13453,ART-131
+de685c54,Handmade jewellery Item 61,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Banana Leaf,Huye,32734,ART-190
+6d0f0de4,Handmade home-decor Item 62,Authentic Rwandan home-decor made from Cotton.,home-decor,Banana Leaf,Musanze,15842,ART-162
+d66f11a2,Handmade leather Item 63,Authentic Rwandan leather made from Wood.,leather,Wood,Nyamirambo,37698,ART-167
+b2f9156c,Handmade jewellery Item 64,Authentic Rwandan jewellery made from Leather.,jewellery,Leather,Huye,22640,ART-108
+605aa727,Handmade jewellery Item 65,Authentic Rwandan jewellery made from Wood.,jewellery,Wood,Rubavu,43207,ART-151
+db7de7f2,Handmade home-decor Item 66,Authentic Rwandan home-decor made from Wood.,home-decor,Wood,Kigali,12809,ART-148
+3a886087,Handmade home-decor Item 67,Authentic Rwandan home-decor made from Cotton.,home-decor,Leather,Kigali,16950,ART-136
+badd53fd,Handmade basketry Item 68,Authentic Rwandan basketry made from Banana Leaf.,basketry,Sisal,Huye,35518,ART-154
+4ee78f15,Handmade jewellery Item 69,Authentic Rwandan jewellery made from Wood.,jewellery,Beads,Nyamirambo,26647,ART-122
+dee47ffc,Handmade leather Item 70,Authentic Rwandan leather made from Sisal.,leather,Leather,Kigali,11417,ART-170
+292cd6e6,Handmade basketry Item 71,Authentic Rwandan basketry made from Sisal.,basketry,Cotton,Nyamirambo,21301,ART-101
+297f63fb,Handmade apparel Item 72,Authentic Rwandan apparel made from Leather.,apparel,Cotton,Nyamirambo,23740,ART-139
+5052f153,Handmade home-decor Item 73,Authentic Rwandan home-decor made from Banana Leaf.,home-decor,Leather,Huye,26177,ART-140
+07374ea2,Handmade home-decor Item 74,Authentic Rwandan home-decor made from Wood.,home-decor,Banana Leaf,Musanze,18318,ART-161
+25dae7b9,Handmade basketry Item 75,Authentic Rwandan basketry made from Wood.,basketry,Leather,Nyamirambo,18922,ART-193
+98ea3882,Handmade apparel Item 76,Authentic Rwandan apparel made from Banana Leaf.,apparel,Banana Leaf,Rubavu,40350,ART-188
+66438392,Handmade jewellery Item 77,Authentic Rwandan jewellery made from Sisal.,jewellery,Cotton,Nyamirambo,22640,ART-191
+81cdb7e4,Handmade leather Item 78,Authentic Rwandan leather made from Banana Leaf.,leather,Sisal,Kigali,27416,ART-140
+97a9c9fb,Handmade jewellery Item 79,Authentic Rwandan jewellery made from Sisal.,jewellery,Banana Leaf,Musanze,28260,ART-163
+241e3ca8,Handmade jewellery Item 80,Authentic Rwandan jewellery made from Wood.,jewellery,Sisal,Kigali,9208,ART-154
+02dbfefe,Handmade basketry Item 81,Authentic Rwandan basketry made from Beads.,basketry,Wood,Musanze,15928,ART-156
+56c8d9ab,Handmade apparel Item 82,Authentic Rwandan apparel made from Banana Leaf.,apparel,Leather,Huye,10258,ART-140
+259ed8e4,Handmade jewellery Item 83,Authentic Rwandan jewellery made from Leather.,jewellery,Wood,Rubavu,34449,ART-195
+ed3dceb0,Handmade home-decor Item 84,Authentic Rwandan home-decor made from Banana Leaf.,home-decor,Leather,Nyamirambo,9061,ART-107
+84c7a8ce,Handmade apparel Item 85,Authentic Rwandan apparel made from Beads.,apparel,Wood,Kigali,34681,ART-163
+aa9a0b45,Handmade leather Item 86,Authentic Rwandan leather made from Wood.,leather,Sisal,Kigali,33933,ART-185
+1ac810ca,Handmade basketry Item 87,Authentic Rwandan basketry made from Leather.,basketry,Leather,Nyamirambo,39508,ART-185
+80dcc358,Handmade leather Item 88,Authentic Rwandan leather made from Wood.,leather,Cotton,Rubavu,15503,ART-107
+01647ac1,Handmade jewellery Item 89,Authentic Rwandan jewellery made from Cotton.,jewellery,Banana Leaf,Rubavu,10520,ART-127
+09b0cba7,Handmade leather Item 90,Authentic Rwandan leather made from Beads.,leather,Sisal,Rubavu,21016,ART-131
+2d2f66e4,Handmade basketry Item 91,Authentic Rwandan basketry made from Leather.,basketry,Beads,Huye,49318,ART-124
+8754c952,Handmade home-decor Item 92,Authentic Rwandan home-decor made from Wood.,home-decor,Banana Leaf,Rubavu,21543,ART-122
+ca2280e2,Handmade basketry Item 93,Authentic Rwandan basketry made from Leather.,basketry,Leather,Huye,29070,ART-132
+8026fa3e,Handmade jewellery Item 94,Authentic Rwandan jewellery made from Cotton.,jewellery,Wood,Kigali,7461,ART-193
+8c7c58b3,Handmade jewellery Item 95,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Wood,Huye,24528,ART-112
+78790948,Handmade leather Item 96,Authentic Rwandan leather made from Wood.,leather,Leather,Musanze,45926,ART-177
+f233e3f2,Handmade jewellery Item 97,Authentic Rwandan jewellery made from Wood.,jewellery,Sisal,Musanze,38018,ART-178
+aacbcbee,Handmade leather Item 98,Authentic Rwandan leather made from Beads.,leather,Beads,Nyamirambo,24447,ART-134
+c5b88de6,Handmade home-decor Item 99,Authentic Rwandan home-decor made from Cotton.,home-decor,Leather,Huye,47652,ART-196
+2a424603,Handmade apparel Item 100,Authentic Rwandan apparel made from Leather.,apparel,Cotton,Huye,36301,ART-160
+86e39a4c,Handmade basketry Item 101,Authentic Rwandan basketry made from Cotton.,basketry,Cotton,Kigali,28356,ART-178
+d8502fb8,Handmade jewellery Item 102,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Banana Leaf,Kigali,41767,ART-163
+56090998,Handmade apparel Item 103,Authentic Rwandan apparel made from Beads.,apparel,Banana Leaf,Rubavu,30877,ART-198
+76167864,Handmade basketry Item 104,Authentic Rwandan basketry made from Wood.,basketry,Sisal,Musanze,40345,ART-183
+5f982537,Handmade basketry Item 105,Authentic Rwandan basketry made from Cotton.,basketry,Beads,Huye,49895,ART-195
+55d906af,Handmade basketry Item 106,Authentic Rwandan basketry made from Beads.,basketry,Leather,Kigali,24009,ART-110
+d400c598,Handmade apparel Item 107,Authentic Rwandan apparel made from Cotton.,apparel,Leather,Huye,15915,ART-103
+8b270721,Handmade home-decor Item 108,Authentic Rwandan home-decor made from Sisal.,home-decor,Cotton,Rubavu,28180,ART-110
+db7d1056,Handmade apparel Item 109,Authentic Rwandan apparel made from Sisal.,apparel,Sisal,Kigali,36223,ART-173
+1c833878,Handmade basketry Item 110,Authentic Rwandan basketry made from Cotton.,basketry,Banana Leaf,Musanze,26329,ART-125
+6659fdf9,Handmade apparel Item 111,Authentic Rwandan apparel made from Banana Leaf.,apparel,Beads,Nyamirambo,6444,ART-131
+d08becb4,Handmade home-decor Item 112,Authentic Rwandan home-decor made from Cotton.,home-decor,Cotton,Huye,47450,ART-168
+ce45daab,Handmade basketry Item 113,Authentic Rwandan basketry made from Wood.,basketry,Sisal,Kigali,25205,ART-123
+f3a00681,Handmade jewellery Item 114,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Beads,Kigali,26478,ART-108
+2d073bbf,Handmade jewellery Item 115,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Sisal,Rubavu,13442,ART-155
+20455885,Handmade home-decor Item 116,Authentic Rwandan home-decor made from Cotton.,home-decor,Sisal,Musanze,10095,ART-178
+412a35aa,Handmade leather Item 117,Authentic Rwandan leather made from Beads.,leather,Cotton,Rubavu,27613,ART-179
+3accbcb0,Handmade basketry Item 118,Authentic Rwandan basketry made from Beads.,basketry,Beads,Nyamirambo,6027,ART-146
+bfd71024,Handmade home-decor Item 119,Authentic Rwandan home-decor made from Cotton.,home-decor,Leather,Rubavu,32273,ART-154
+8e649aeb,Handmade apparel Item 120,Authentic Rwandan apparel made from Beads.,apparel,Banana Leaf,Rubavu,15685,ART-197
+c6d28abd,Handmade home-decor Item 121,Authentic Rwandan home-decor made from Leather.,home-decor,Wood,Nyamirambo,21586,ART-165
+13a750b7,Handmade apparel Item 122,Authentic Rwandan apparel made from Beads.,apparel,Beads,Musanze,40458,ART-198
+7608c7ac,Handmade leather Item 123,Authentic Rwandan leather made from Banana Leaf.,leather,Beads,Rubavu,5746,ART-198
+5b6c6cb3,Handmade jewellery Item 124,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Wood,Nyamirambo,12569,ART-170
+c7d5e9eb,Handmade home-decor Item 125,Authentic Rwandan home-decor made from Banana Leaf.,home-decor,Sisal,Kigali,9346,ART-173
+eff0b7b5,Handmade jewellery Item 126,Authentic Rwandan jewellery made from Leather.,jewellery,Wood,Nyamirambo,41348,ART-112
+ebb7db7c,Handmade apparel Item 127,Authentic Rwandan apparel made from Banana Leaf.,apparel,Leather,Nyamirambo,33100,ART-187
+967196b2,Handmade basketry Item 128,Authentic Rwandan basketry made from Cotton.,basketry,Sisal,Kigali,12473,ART-199
+b95510aa,Handmade leather Item 129,Authentic Rwandan leather made from Wood.,leather,Beads,Rubavu,30266,ART-124
+8dacbfa8,Handmade leather Item 130,Authentic Rwandan leather made from Leather.,leather,Banana Leaf,Huye,36977,ART-171
+ee299a39,Handmade basketry Item 131,Authentic Rwandan basketry made from Banana Leaf.,basketry,Sisal,Musanze,45784,ART-193
+3018c3fe,Handmade apparel Item 132,Authentic Rwandan apparel made from Beads.,apparel,Wood,Musanze,23070,ART-151
+867ad462,Handmade jewellery Item 133,Authentic Rwandan jewellery made from Wood.,jewellery,Beads,Musanze,43934,ART-193
+669f0309,Handmade jewellery Item 134,Authentic Rwandan jewellery made from Beads.,jewellery,Beads,Musanze,26091,ART-117
+13b94522,Handmade home-decor Item 135,Authentic Rwandan home-decor made from Leather.,home-decor,Leather,Kigali,7573,ART-180
+96559c80,Handmade leather Item 136,Authentic Rwandan leather made from Cotton.,leather,Sisal,Musanze,34575,ART-185
+da841451,Handmade leather Item 137,Authentic Rwandan leather made from Wood.,leather,Sisal,Kigali,31389,ART-175
+04745224,Handmade leather Item 138,Authentic Rwandan leather made from Leather.,leather,Leather,Musanze,35840,ART-108
+7d42861b,Handmade basketry Item 139,Authentic Rwandan basketry made from Beads.,basketry,Sisal,Kigali,13902,ART-114
+631e2e86,Handmade jewellery Item 140,Authentic Rwandan jewellery made from Sisal.,jewellery,Leather,Kigali,45329,ART-146
+22007b66,Handmade jewellery Item 141,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Banana Leaf,Kigali,48696,ART-101
+a654916b,Handmade basketry Item 142,Authentic Rwandan basketry made from Cotton.,basketry,Sisal,Rubavu,9019,ART-131
+d8de3ac1,Handmade basketry Item 143,Authentic Rwandan basketry made from Cotton.,basketry,Beads,Nyamirambo,33796,ART-196
+0d545cdc,Handmade apparel Item 144,Authentic Rwandan apparel made from Cotton.,apparel,Cotton,Huye,29092,ART-136
+10aa6163,Handmade basketry Item 145,Authentic Rwandan basketry made from Sisal.,basketry,Banana Leaf,Musanze,11525,ART-196
+62032ace,Handmade home-decor Item 146,Authentic Rwandan home-decor made from Banana Leaf.,home-decor,Sisal,Kigali,10763,ART-173
+bd5b5a9b,Handmade apparel Item 147,Authentic Rwandan apparel made from Wood.,apparel,Beads,Rubavu,44430,ART-136
+47640214,Handmade apparel Item 148,Authentic Rwandan apparel made from Wood.,apparel,Wood,Huye,9036,ART-103
+2e251543,Handmade basketry Item 149,Authentic Rwandan basketry made from Wood.,basketry,Cotton,Rubavu,5177,ART-131
+13d579e6,Handmade jewellery Item 150,Authentic Rwandan jewellery made from Beads.,jewellery,Cotton,Huye,20516,ART-136
+e41f53af,Handmade apparel Item 151,Authentic Rwandan apparel made from Cotton.,apparel,Beads,Kigali,32386,ART-115
+cea38181,Handmade home-decor Item 152,Authentic Rwandan home-decor made from Sisal.,home-decor,Wood,Nyamirambo,20611,ART-176
+dded64e7,Handmade apparel Item 153,Authentic Rwandan apparel made from Sisal.,apparel,Wood,Nyamirambo,22045,ART-190
+7152d427,Handmade home-decor Item 154,Authentic Rwandan home-decor made from Wood.,home-decor,Leather,Nyamirambo,6402,ART-196
+cf2de443,Handmade leather Item 155,Authentic Rwandan leather made from Cotton.,leather,Leather,Huye,42323,ART-185
+40adf14d,Handmade jewellery Item 156,Authentic Rwandan jewellery made from Wood.,jewellery,Wood,Huye,23263,ART-183
+fb95b4ff,Handmade jewellery Item 157,Authentic Rwandan jewellery made from Leather.,jewellery,Sisal,Kigali,38699,ART-117
+272d4815,Handmade leather Item 158,Authentic Rwandan leather made from Cotton.,leather,Wood,Huye,46516,ART-183
+b5d71af4,Handmade home-decor Item 159,Authentic Rwandan home-decor made from Banana Leaf.,home-decor,Sisal,Kigali,19062,ART-105
+88cd9498,Handmade basketry Item 160,Authentic Rwandan basketry made from Leather.,basketry,Banana Leaf,Huye,23216,ART-123
+a37a88af,Handmade leather Item 161,Authentic Rwandan leather made from Beads.,leather,Cotton,Huye,11298,ART-188
+9ca6b816,Handmade home-decor Item 162,Authentic Rwandan home-decor made from Leather.,home-decor,Sisal,Huye,36769,ART-188
+a2e2217f,Handmade jewellery Item 163,Authentic Rwandan jewellery made from Sisal.,jewellery,Beads,Huye,44526,ART-134
+12d472e1,Handmade basketry Item 164,Authentic Rwandan basketry made from Wood.,basketry,Cotton,Rubavu,14705,ART-142
+37a54368,Handmade leather Item 165,Authentic Rwandan leather made from Beads.,leather,Leather,Huye,11640,ART-198
+55407e69,Handmade leather Item 166,Authentic Rwandan leather made from Sisal.,leather,Beads,Kigali,5262,ART-171
+45814b81,Handmade apparel Item 167,Authentic Rwandan apparel made from Cotton.,apparel,Beads,Huye,13112,ART-174
+917628f5,Handmade jewellery Item 168,Authentic Rwandan jewellery made from Beads.,jewellery,Cotton,Huye,30499,ART-174
+e8662386,Handmade jewellery Item 169,Authentic Rwandan jewellery made from Leather.,jewellery,Beads,Nyamirambo,46214,ART-158
+5373ea77,Handmade leather Item 170,Authentic Rwandan leather made from Sisal.,leather,Cotton,Huye,6530,ART-148
+289eab7b,Handmade apparel Item 171,Authentic Rwandan apparel made from Wood.,apparel,Beads,Huye,17002,ART-154
+4e1147c2,Handmade basketry Item 172,Authentic Rwandan basketry made from Leather.,basketry,Sisal,Rubavu,12558,ART-105
+2878dc7d,Handmade basketry Item 173,Authentic Rwandan basketry made from Wood.,basketry,Wood,Rubavu,39505,ART-130
+a763c1b6,Handmade jewellery Item 174,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Banana Leaf,Huye,45121,ART-155
+51d61158,Handmade jewellery Item 175,Authentic Rwandan jewellery made from Cotton.,jewellery,Beads,Nyamirambo,25680,ART-186
+251fa08b,Handmade leather Item 176,Authentic Rwandan leather made from Wood.,leather,Leather,Rubavu,17907,ART-131
+21842a46,Handmade leather Item 177,Authentic Rwandan leather made from Cotton.,leather,Banana Leaf,Rubavu,46264,ART-127
+d801b34b,Handmade basketry Item 178,Authentic Rwandan basketry made from Wood.,basketry,Leather,Kigali,7459,ART-147
+7d208047,Handmade leather Item 179,Authentic Rwandan leather made from Sisal.,leather,Beads,Huye,9269,ART-150
+38879df2,Handmade basketry Item 180,Authentic Rwandan basketry made from Cotton.,basketry,Beads,Musanze,21645,ART-137
+055e82cf,Handmade jewellery Item 181,Authentic Rwandan jewellery made from Sisal.,jewellery,Banana Leaf,Rubavu,23938,ART-138
+3bd6eeca,Handmade home-decor Item 182,Authentic Rwandan home-decor made from Cotton.,home-decor,Beads,Kigali,27221,ART-109
+36d91f03,Handmade home-decor Item 183,Authentic Rwandan home-decor made from Cotton.,home-decor,Wood,Kigali,31261,ART-163
+3e49d333,Handmade leather Item 184,Authentic Rwandan leather made from Beads.,leather,Beads,Nyamirambo,46509,ART-154
+877073de,Handmade apparel Item 185,Authentic Rwandan apparel made from Cotton.,apparel,Beads,Nyamirambo,7149,ART-180
+b1186f80,Handmade apparel Item 186,Authentic Rwandan apparel made from Beads.,apparel,Leather,Rubavu,45557,ART-171
+e7d610e6,Handmade jewellery Item 187,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Cotton,Kigali,20680,ART-128
+c376fc5a,Handmade leather Item 188,Authentic Rwandan leather made from Banana Leaf.,leather,Beads,Nyamirambo,38011,ART-180
+0f510144,Handmade basketry Item 189,Authentic Rwandan basketry made from Cotton.,basketry,Cotton,Nyamirambo,18534,ART-154
+6c2d6d79,Handmade leather Item 190,Authentic Rwandan leather made from Cotton.,leather,Leather,Kigali,19334,ART-108
+8738c811,Handmade home-decor Item 191,Authentic Rwandan home-decor made from Cotton.,home-decor,Wood,Rubavu,27256,ART-105
+1addb5eb,Handmade home-decor Item 192,Authentic Rwandan home-decor made from Leather.,home-decor,Beads,Huye,37315,ART-135
+e17dacad,Handmade home-decor Item 193,Authentic Rwandan home-decor made from Cotton.,home-decor,Beads,Kigali,47210,ART-154
+54fbff76,Handmade basketry Item 194,Authentic Rwandan basketry made from Cotton.,basketry,Leather,Kigali,47336,ART-115
+79248bb5,Handmade leather Item 195,Authentic Rwandan leather made from Banana Leaf.,leather,Leather,Musanze,14948,ART-161
+b6eafb08,Handmade leather Item 196,Authentic Rwandan leather made from Sisal.,leather,Leather,Huye,32592,ART-161
+b8774e26,Handmade jewellery Item 197,Authentic Rwandan jewellery made from Leather.,jewellery,Beads,Nyamirambo,10427,ART-117
+8d3a2071,Handmade jewellery Item 198,Authentic Rwandan jewellery made from Sisal.,jewellery,Wood,Rubavu,49902,ART-152
+8caf566c,Handmade jewellery Item 199,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Wood,Kigali,24873,ART-162
+b5be8960,Handmade jewellery Item 200,Authentic Rwandan jewellery made from Wood.,jewellery,Wood,Nyamirambo,29864,ART-117
+f1ae0046,Handmade apparel Item 201,Authentic Rwandan apparel made from Sisal.,apparel,Beads,Rubavu,31700,ART-187
+038973cc,Handmade home-decor Item 202,Authentic Rwandan home-decor made from Cotton.,home-decor,Beads,Huye,36593,ART-118
+b3969a9a,Handmade home-decor Item 203,Authentic Rwandan home-decor made from Banana Leaf.,home-decor,Wood,Musanze,35611,ART-120
+abb7f3c9,Handmade basketry Item 204,Authentic Rwandan basketry made from Beads.,basketry,Banana Leaf,Musanze,26113,ART-142
+7ad2b844,Handmade leather Item 205,Authentic Rwandan leather made from Sisal.,leather,Sisal,Kigali,29006,ART-132
+28d13fc8,Handmade leather Item 206,Authentic Rwandan leather made from Banana Leaf.,leather,Cotton,Kigali,28398,ART-177
+7d1f7568,Handmade jewellery Item 207,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Cotton,Huye,27699,ART-156
+ab81f336,Handmade basketry Item 208,Authentic Rwandan basketry made from Cotton.,basketry,Beads,Huye,37900,ART-170
+999903fe,Handmade home-decor Item 209,Authentic Rwandan home-decor made from Leather.,home-decor,Beads,Rubavu,47797,ART-195
+8de21892,Handmade apparel Item 210,Authentic Rwandan apparel made from Beads.,apparel,Wood,Musanze,18170,ART-183
+cccf4bdc,Handmade jewellery Item 211,Authentic Rwandan jewellery made from Wood.,jewellery,Wood,Nyamirambo,6646,ART-165
+73660a00,Handmade home-decor Item 212,Authentic Rwandan home-decor made from Beads.,home-decor,Wood,Musanze,26868,ART-199
+9b6ca54b,Handmade leather Item 213,Authentic Rwandan leather made from Leather.,leather,Leather,Kigali,25642,ART-199
+6719753d,Handmade leather Item 214,Authentic Rwandan leather made from Wood.,leather,Sisal,Musanze,24092,ART-177
+a473f9ba,Handmade leather Item 215,Authentic Rwandan leather made from Cotton.,leather,Sisal,Kigali,13736,ART-125
+ca1bbb49,Handmade jewellery Item 216,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Beads,Huye,26288,ART-175
+fdd4d00b,Handmade leather Item 217,Authentic Rwandan leather made from Cotton.,leather,Beads,Huye,19092,ART-111
+b264d9af,Handmade leather Item 218,Authentic Rwandan leather made from Beads.,leather,Beads,Huye,46822,ART-142
+a19e467e,Handmade leather Item 219,Authentic Rwandan leather made from Wood.,leather,Beads,Rubavu,26545,ART-173
+31ce94a7,Handmade basketry Item 220,Authentic Rwandan basketry made from Wood.,basketry,Banana Leaf,Rubavu,6697,ART-104
+442bf855,Handmade jewellery Item 221,Authentic Rwandan jewellery made from Leather.,jewellery,Cotton,Kigali,9364,ART-185
+dc63ea5c,Handmade jewellery Item 222,Authentic Rwandan jewellery made from Beads.,jewellery,Banana Leaf,Nyamirambo,14226,ART-196
+126d83fc,Handmade basketry Item 223,Authentic Rwandan basketry made from Banana Leaf.,basketry,Sisal,Kigali,20752,ART-117
+93d68500,Handmade basketry Item 224,Authentic Rwandan basketry made from Beads.,basketry,Cotton,Kigali,25585,ART-131
+dd6eb6f9,Handmade jewellery Item 225,Authentic Rwandan jewellery made from Wood.,jewellery,Wood,Kigali,32013,ART-107
+b77efe0d,Handmade jewellery Item 226,Authentic Rwandan jewellery made from Sisal.,jewellery,Leather,Rubavu,49587,ART-163
+66af478e,Handmade apparel Item 227,Authentic Rwandan apparel made from Leather.,apparel,Banana Leaf,Kigali,35343,ART-157
+00266a5c,Handmade home-decor Item 228,Authentic Rwandan home-decor made from Wood.,home-decor,Wood,Huye,17560,ART-187
+e44e1a40,Handmade basketry Item 229,Authentic Rwandan basketry made from Beads.,basketry,Beads,Rubavu,7302,ART-197
+241ca9f8,Handmade basketry Item 230,Authentic Rwandan basketry made from Wood.,basketry,Beads,Kigali,49510,ART-169
+cc1e7b05,Handmade home-decor Item 231,Authentic Rwandan home-decor made from Banana Leaf.,home-decor,Banana Leaf,Rubavu,19039,ART-152
+58922202,Handmade basketry Item 232,Authentic Rwandan basketry made from Leather.,basketry,Cotton,Nyamirambo,14965,ART-188
+53cb3c68,Handmade basketry Item 233,Authentic Rwandan basketry made from Wood.,basketry,Leather,Kigali,45975,ART-112
+e0c89228,Handmade leather Item 234,Authentic Rwandan leather made from Wood.,leather,Banana Leaf,Nyamirambo,38078,ART-167
+301268e2,Handmade jewellery Item 235,Authentic Rwandan jewellery made from Beads.,jewellery,Wood,Rubavu,47815,ART-164
+66820dba,Handmade leather Item 236,Authentic Rwandan leather made from Leather.,leather,Leather,Rubavu,23490,ART-106
+7e66bfa6,Handmade apparel Item 237,Authentic Rwandan apparel made from Cotton.,apparel,Beads,Nyamirambo,21300,ART-105
+6dfb2e22,Handmade jewellery Item 238,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Wood,Nyamirambo,25037,ART-146
+08b3cf7a,Handmade leather Item 239,Authentic Rwandan leather made from Banana Leaf.,leather,Sisal,Rubavu,7763,ART-166
+67fdce4c,Handmade leather Item 240,Authentic Rwandan leather made from Sisal.,leather,Cotton,Rubavu,33627,ART-133
+da86351a,Handmade basketry Item 241,Authentic Rwandan basketry made from Cotton.,basketry,Sisal,Rubavu,19940,ART-151
+be8d7ef2,Handmade jewellery Item 242,Authentic Rwandan jewellery made from Beads.,jewellery,Sisal,Musanze,33666,ART-139
+a2fd239a,Handmade home-decor Item 243,Authentic Rwandan home-decor made from Beads.,home-decor,Leather,Kigali,8575,ART-116
+729c7b1c,Handmade apparel Item 244,Authentic Rwandan apparel made from Banana Leaf.,apparel,Cotton,Kigali,26893,ART-184
+37ed3485,Handmade basketry Item 245,Authentic Rwandan basketry made from Sisal.,basketry,Banana Leaf,Huye,8456,ART-189
+1b70b118,Handmade apparel Item 246,Authentic Rwandan apparel made from Wood.,apparel,Leather,Kigali,36035,ART-138
+a170239e,Handmade jewellery Item 247,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Banana Leaf,Kigali,40421,ART-199
+391fdc96,Handmade jewellery Item 248,Authentic Rwandan jewellery made from Cotton.,jewellery,Wood,Nyamirambo,10970,ART-166
+d33e2284,Handmade jewellery Item 249,Authentic Rwandan jewellery made from Cotton.,jewellery,Beads,Nyamirambo,34719,ART-158
+3405a2d4,Handmade basketry Item 250,Authentic Rwandan basketry made from Beads.,basketry,Wood,Rubavu,40599,ART-164
+2e1d0705,Handmade leather Item 251,Authentic Rwandan leather made from Cotton.,leather,Sisal,Nyamirambo,28320,ART-187
+fc1ed8c0,Handmade jewellery Item 252,Authentic Rwandan jewellery made from Cotton.,jewellery,Banana Leaf,Kigali,13336,ART-143
+c288460d,Handmade basketry Item 253,Authentic Rwandan basketry made from Beads.,basketry,Wood,Musanze,28146,ART-185
+692d3893,Handmade home-decor Item 254,Authentic Rwandan home-decor made from Beads.,home-decor,Leather,Kigali,40981,ART-191
+37049034,Handmade leather Item 255,Authentic Rwandan leather made from Wood.,leather,Banana Leaf,Nyamirambo,9789,ART-140
+09e19de9,Handmade home-decor Item 256,Authentic Rwandan home-decor made from Sisal.,home-decor,Cotton,Huye,27858,ART-120
+de19c0f0,Handmade home-decor Item 257,Authentic Rwandan home-decor made from Sisal.,home-decor,Cotton,Huye,31800,ART-179
+238d21f8,Handmade apparel Item 258,Authentic Rwandan apparel made from Sisal.,apparel,Sisal,Nyamirambo,33070,ART-194
+52c6e673,Handmade apparel Item 259,Authentic Rwandan apparel made from Beads.,apparel,Leather,Musanze,26209,ART-194
+616f0b18,Handmade basketry Item 260,Authentic Rwandan basketry made from Beads.,basketry,Beads,Nyamirambo,24108,ART-129
+3d2e6d84,Handmade jewellery Item 261,Authentic Rwandan jewellery made from Sisal.,jewellery,Cotton,Huye,41549,ART-186
+7f46b22f,Handmade leather Item 262,Authentic Rwandan leather made from Leather.,leather,Beads,Huye,41178,ART-120
+818972e1,Handmade leather Item 263,Authentic Rwandan leather made from Cotton.,leather,Banana Leaf,Nyamirambo,9728,ART-124
+12aa3a26,Handmade home-decor Item 264,Authentic Rwandan home-decor made from Cotton.,home-decor,Banana Leaf,Nyamirambo,38848,ART-191
+db99ed9a,Handmade apparel Item 265,Authentic Rwandan apparel made from Sisal.,apparel,Wood,Nyamirambo,27977,ART-122
+2503947c,Handmade home-decor Item 266,Authentic Rwandan home-decor made from Beads.,home-decor,Beads,Huye,36749,ART-129
+51454132,Handmade jewellery Item 267,Authentic Rwandan jewellery made from Wood.,jewellery,Cotton,Kigali,14600,ART-172
+987a75e2,Handmade basketry Item 268,Authentic Rwandan basketry made from Cotton.,basketry,Banana Leaf,Musanze,42118,ART-192
+da8ba44a,Handmade apparel Item 269,Authentic Rwandan apparel made from Leather.,apparel,Banana Leaf,Kigali,36799,ART-196
+2d61cc82,Handmade apparel Item 270,Authentic Rwandan apparel made from Leather.,apparel,Banana Leaf,Rubavu,44477,ART-169
+9d4ff6fa,Handmade basketry Item 271,Authentic Rwandan basketry made from Cotton.,basketry,Beads,Huye,31207,ART-163
+42d82ca9,Handmade leather Item 272,Authentic Rwandan leather made from Leather.,leather,Leather,Rubavu,35925,ART-198
+867704a2,Handmade basketry Item 273,Authentic Rwandan basketry made from Banana Leaf.,basketry,Cotton,Rubavu,36711,ART-190
+2e14cbf2,Handmade apparel Item 274,Authentic Rwandan apparel made from Banana Leaf.,apparel,Leather,Nyamirambo,48480,ART-182
+8198e584,Handmade home-decor Item 275,Authentic Rwandan home-decor made from Banana Leaf.,home-decor,Cotton,Huye,29668,ART-193
+8aa8b77a,Handmade apparel Item 276,Authentic Rwandan apparel made from Cotton.,apparel,Leather,Huye,36762,ART-175
+fdec340d,Handmade leather Item 277,Authentic Rwandan leather made from Banana Leaf.,leather,Wood,Kigali,25361,ART-170
+4adf67d2,Handmade basketry Item 278,Authentic Rwandan basketry made from Banana Leaf.,basketry,Banana Leaf,Rubavu,20742,ART-151
+fab4383a,Handmade basketry Item 279,Authentic Rwandan basketry made from Wood.,basketry,Banana Leaf,Kigali,28912,ART-129
+73aad801,Handmade basketry Item 280,Authentic Rwandan basketry made from Leather.,basketry,Banana Leaf,Musanze,47677,ART-158
+2dd30774,Handmade basketry Item 281,Authentic Rwandan basketry made from Cotton.,basketry,Beads,Nyamirambo,14395,ART-158
+dd465ae2,Handmade leather Item 282,Authentic Rwandan leather made from Cotton.,leather,Cotton,Nyamirambo,16115,ART-111
+5a78c13b,Handmade jewellery Item 283,Authentic Rwandan jewellery made from Leather.,jewellery,Sisal,Kigali,18011,ART-133
+5f121f07,Handmade basketry Item 284,Authentic Rwandan basketry made from Wood.,basketry,Beads,Kigali,41879,ART-159
+9ef95ac5,Handmade leather Item 285,Authentic Rwandan leather made from Beads.,leather,Beads,Rubavu,12863,ART-156
+5f740024,Handmade basketry Item 286,Authentic Rwandan basketry made from Sisal.,basketry,Beads,Nyamirambo,49640,ART-105
+2bdc1405,Handmade basketry Item 287,Authentic Rwandan basketry made from Banana Leaf.,basketry,Sisal,Nyamirambo,28512,ART-181
+07f8ff32,Handmade home-decor Item 288,Authentic Rwandan home-decor made from Beads.,home-decor,Beads,Nyamirambo,37361,ART-143
+7872752d,Handmade home-decor Item 289,Authentic Rwandan home-decor made from Beads.,home-decor,Cotton,Rubavu,21721,ART-168
+8cd6f39a,Handmade home-decor Item 290,Authentic Rwandan home-decor made from Wood.,home-decor,Cotton,Rubavu,27515,ART-169
+ee4d9e21,Handmade basketry Item 291,Authentic Rwandan basketry made from Wood.,basketry,Wood,Rubavu,15716,ART-114
+eff2b30e,Handmade home-decor Item 292,Authentic Rwandan home-decor made from Banana Leaf.,home-decor,Leather,Nyamirambo,35031,ART-154
+87c6fb7f,Handmade leather Item 293,Authentic Rwandan leather made from Cotton.,leather,Cotton,Kigali,36136,ART-130
+a4ae64fc,Handmade basketry Item 294,Authentic Rwandan basketry made from Cotton.,basketry,Banana Leaf,Musanze,31931,ART-155
+5bf44dea,Handmade home-decor Item 295,Authentic Rwandan home-decor made from Banana Leaf.,home-decor,Cotton,Kigali,23816,ART-106
+68efff7a,Handmade leather Item 296,Authentic Rwandan leather made from Cotton.,leather,Sisal,Nyamirambo,21224,ART-190
+1705a36d,Handmade basketry Item 297,Authentic Rwandan basketry made from Cotton.,basketry,Banana Leaf,Nyamirambo,7267,ART-200
+2decac01,Handmade leather Item 298,Authentic Rwandan leather made from Leather.,leather,Wood,Musanze,21719,ART-135
+0b1429a9,Handmade basketry Item 299,Authentic Rwandan basketry made from Banana Leaf.,basketry,Leather,Huye,34328,ART-169
+8a8cbe7f,Handmade leather Item 300,Authentic Rwandan leather made from Wood.,leather,Beads,Huye,49337,ART-129
+cad36930,Handmade home-decor Item 301,Authentic Rwandan home-decor made from Cotton.,home-decor,Leather,Rubavu,21048,ART-124
+cb80afac,Handmade jewellery Item 302,Authentic Rwandan jewellery made from Beads.,jewellery,Beads,Kigali,18156,ART-143
+775a276b,Handmade leather Item 303,Authentic Rwandan leather made from Sisal.,leather,Wood,Kigali,31385,ART-100
+13b384e4,Handmade apparel Item 304,Authentic Rwandan apparel made from Leather.,apparel,Cotton,Rubavu,29939,ART-141
+2954f755,Handmade basketry Item 305,Authentic Rwandan basketry made from Banana Leaf.,basketry,Wood,Nyamirambo,11366,ART-190
+7b91ca8a,Handmade jewellery Item 306,Authentic Rwandan jewellery made from Leather.,jewellery,Cotton,Musanze,38992,ART-168
+74839310,Handmade basketry Item 307,Authentic Rwandan basketry made from Banana Leaf.,basketry,Beads,Rubavu,46141,ART-134
+4af55aa5,Handmade basketry Item 308,Authentic Rwandan basketry made from Wood.,basketry,Banana Leaf,Musanze,33052,ART-118
+d22d5fba,Handmade basketry Item 309,Authentic Rwandan basketry made from Leather.,basketry,Sisal,Kigali,15706,ART-157
+ada3c52c,Handmade basketry Item 310,Authentic Rwandan basketry made from Wood.,basketry,Cotton,Nyamirambo,27913,ART-115
+7dc71fe2,Handmade leather Item 311,Authentic Rwandan leather made from Beads.,leather,Beads,Musanze,19157,ART-122
+bb900857,Handmade basketry Item 312,Authentic Rwandan basketry made from Banana Leaf.,basketry,Sisal,Musanze,37504,ART-125
+2002eefe,Handmade apparel Item 313,Authentic Rwandan apparel made from Cotton.,apparel,Leather,Rubavu,14943,ART-105
+2f169228,Handmade leather Item 314,Authentic Rwandan leather made from Sisal.,leather,Sisal,Nyamirambo,30482,ART-199
+3f3e53d0,Handmade jewellery Item 315,Authentic Rwandan jewellery made from Beads.,jewellery,Leather,Musanze,10187,ART-107
+9bcc158b,Handmade home-decor Item 316,Authentic Rwandan home-decor made from Wood.,home-decor,Beads,Kigali,8809,ART-187
+306801fd,Handmade basketry Item 317,Authentic Rwandan basketry made from Beads.,basketry,Cotton,Nyamirambo,21771,ART-146
+e2038bb7,Handmade jewellery Item 318,Authentic Rwandan jewellery made from Leather.,jewellery,Wood,Kigali,24094,ART-173
+c9abe1ee,Handmade basketry Item 319,Authentic Rwandan basketry made from Leather.,basketry,Wood,Nyamirambo,27815,ART-122
+af21e87a,Handmade jewellery Item 320,Authentic Rwandan jewellery made from Beads.,jewellery,Wood,Nyamirambo,23731,ART-182
+cbd7f171,Handmade leather Item 321,Authentic Rwandan leather made from Cotton.,leather,Sisal,Musanze,40721,ART-120
+99c40ea3,Handmade basketry Item 322,Authentic Rwandan basketry made from Cotton.,basketry,Sisal,Rubavu,39688,ART-199
+046e9b66,Handmade basketry Item 323,Authentic Rwandan basketry made from Cotton.,basketry,Leather,Kigali,37634,ART-132
+fc45f5b0,Handmade jewellery Item 324,Authentic Rwandan jewellery made from Wood.,jewellery,Wood,Kigali,41116,ART-179
+eb774169,Handmade leather Item 325,Authentic Rwandan leather made from Banana Leaf.,leather,Wood,Kigali,35691,ART-188
+f5d959a2,Handmade jewellery Item 326,Authentic Rwandan jewellery made from Beads.,jewellery,Leather,Huye,7916,ART-136
+1e162810,Handmade jewellery Item 327,Authentic Rwandan jewellery made from Leather.,jewellery,Beads,Musanze,14315,ART-168
+88dd556e,Handmade apparel Item 328,Authentic Rwandan apparel made from Leather.,apparel,Leather,Nyamirambo,33149,ART-120
+64b75797,Handmade jewellery Item 329,Authentic Rwandan jewellery made from Leather.,jewellery,Cotton,Rubavu,41071,ART-125
+379dd70e,Handmade apparel Item 330,Authentic Rwandan apparel made from Banana Leaf.,apparel,Cotton,Huye,8654,ART-138
+a8a7bb1e,Handmade apparel Item 331,Authentic Rwandan apparel made from Sisal.,apparel,Leather,Musanze,12222,ART-149
+22683d31,Handmade jewellery Item 332,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Cotton,Nyamirambo,14481,ART-185
+3e5ea911,Handmade home-decor Item 333,Authentic Rwandan home-decor made from Banana Leaf.,home-decor,Banana Leaf,Nyamirambo,23315,ART-200
+58e4f313,Handmade jewellery Item 334,Authentic Rwandan jewellery made from Leather.,jewellery,Wood,Rubavu,43006,ART-178
+7a89201e,Handmade leather Item 335,Authentic Rwandan leather made from Wood.,leather,Banana Leaf,Nyamirambo,10799,ART-187
+16683bdd,Handmade jewellery Item 336,Authentic Rwandan jewellery made from Leather.,jewellery,Wood,Kigali,20483,ART-127
+1434c622,Handmade jewellery Item 337,Authentic Rwandan jewellery made from Cotton.,jewellery,Wood,Nyamirambo,18341,ART-200
+3b881406,Handmade basketry Item 338,Authentic Rwandan basketry made from Cotton.,basketry,Wood,Huye,29100,ART-112
+e4cd12da,Handmade apparel Item 339,Authentic Rwandan apparel made from Leather.,apparel,Banana Leaf,Nyamirambo,11866,ART-141
+53ca2829,Handmade apparel Item 340,Authentic Rwandan apparel made from Wood.,apparel,Leather,Nyamirambo,36351,ART-101
+521924f1,Handmade home-decor Item 341,Authentic Rwandan home-decor made from Wood.,home-decor,Beads,Rubavu,38844,ART-156
+8143b119,Handmade home-decor Item 342,Authentic Rwandan home-decor made from Cotton.,home-decor,Cotton,Nyamirambo,46417,ART-160
+7e6c4037,Handmade apparel Item 343,Authentic Rwandan apparel made from Cotton.,apparel,Wood,Nyamirambo,43719,ART-190
+e220ba8c,Handmade home-decor Item 344,Authentic Rwandan home-decor made from Banana Leaf.,home-decor,Leather,Rubavu,48227,ART-196
+81e9a724,Handmade home-decor Item 345,Authentic Rwandan home-decor made from Beads.,home-decor,Sisal,Kigali,46890,ART-177
+3976fbaf,Handmade basketry Item 346,Authentic Rwandan basketry made from Wood.,basketry,Banana Leaf,Rubavu,42780,ART-128
+b7da35c9,Handmade jewellery Item 347,Authentic Rwandan jewellery made from Cotton.,jewellery,Cotton,Kigali,34590,ART-170
+5c2478ec,Handmade leather Item 348,Authentic Rwandan leather made from Sisal.,leather,Leather,Huye,12683,ART-121
+4a37b849,Handmade basketry Item 349,Authentic Rwandan basketry made from Wood.,basketry,Beads,Rubavu,12709,ART-153
+909f8f98,Handmade apparel Item 350,Authentic Rwandan apparel made from Banana Leaf.,apparel,Wood,Musanze,11186,ART-177
+cc1ef5ec,Handmade leather Item 351,Authentic Rwandan leather made from Leather.,leather,Banana Leaf,Musanze,20779,ART-178
+06670b08,Handmade home-decor Item 352,Authentic Rwandan home-decor made from Cotton.,home-decor,Banana Leaf,Huye,33820,ART-174
+bafa7101,Handmade basketry Item 353,Authentic Rwandan basketry made from Leather.,basketry,Leather,Musanze,41739,ART-131
+859c1e97,Handmade jewellery Item 354,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Wood,Huye,44642,ART-114
+e82c0785,Handmade jewellery Item 355,Authentic Rwandan jewellery made from Banana Leaf.,jewellery,Wood,Nyamirambo,34154,ART-142
+102ae721,Handmade apparel Item 356,Authentic Rwandan apparel made from Wood.,apparel,Beads,Kigali,44955,ART-200
+d6f3847a,Handmade jewellery Item 357,Authentic Rwandan jewellery made from Sisal.,jewellery,Wood,Huye,30285,ART-188
+776ad021,Handmade basketry Item 358,Authentic Rwandan basketry made from Leather.,basketry,Sisal,Rubavu,14459,ART-191
+eb65fa98,Handmade leather Item 359,Authentic Rwandan leather made from Wood.,leather,Wood,Rubavu,37442,ART-196
+c993ea2d,Handmade leather Item 360,Authentic Rwandan leather made from Beads.,leather,Leather,Kigali,19709,ART-111
+c79cec6a,Handmade basketry Item 361,Authentic Rwandan basketry made from Leather.,basketry,Cotton,Rubavu,22542,ART-126
+bb85d01b,Handmade basketry Item 362,Authentic Rwandan basketry made from Beads.,basketry,Cotton,Musanze,42384,ART-121
+11ba9ede,Handmade basketry Item 363,Authentic Rwandan basketry made from Sisal.,basketry,Wood,Nyamirambo,38309,ART-139
+f7b0a18d,Handmade basketry Item 364,Authentic Rwandan basketry made from Leather.,basketry,Leather,Musanze,46078,ART-180
+95f27236,Handmade apparel Item 365,Authentic Rwandan apparel made from Wood.,apparel,Cotton,Rubavu,20742,ART-185
+46a181b5,Handmade leather Item 366,Authentic Rwandan leather made from Wood.,leather,Beads,Kigali,22854,ART-124
+78cf1e85,Handmade apparel Item 367,Authentic Rwandan apparel made from Banana Leaf.,apparel,Beads,Nyamirambo,17953,ART-158
+313fa42c,Handmade basketry Item 368,Authentic Rwandan basketry made from Wood.,basketry,Banana Leaf,Rubavu,44418,ART-102
+0dfb04f4,Handmade basketry Item 369,Authentic Rwandan basketry made from Cotton.,basketry,Sisal,Nyamirambo,36711,ART-182
+bc8bbac4,Handmade home-decor Item 370,Authentic Rwandan home-decor made from Cotton.,home-decor,Leather,Rubavu,39911,ART-189
+a2e76f61,Handmade leather Item 371,Authentic Rwandan leather made from Banana Leaf.,leather,Wood,Huye,33075,ART-163
+cd659d12,Handmade jewellery Item 372,Authentic Rwandan jewellery made from Beads.,jewellery,Banana Leaf,Huye,42434,ART-104
+47ec7dd6,Handmade jewellery Item 373,Authentic Rwandan jewellery made from Cotton.,jewellery,Beads,Kigali,8884,ART-112
+ef96d981,Handmade apparel Item 374,Authentic Rwandan apparel made from Wood.,apparel,Cotton,Musanze,36113,ART-125
+b8e837ac,Handmade apparel Item 375,Authentic Rwandan apparel made from Cotton.,apparel,Sisal,Nyamirambo,44911,ART-199
+833d628a,Handmade apparel Item 376,Authentic Rwandan apparel made from Cotton.,apparel,Sisal,Nyamirambo,35950,ART-175
+4c2934ae,Handmade basketry Item 377,Authentic Rwandan basketry made from Beads.,basketry,Beads,Rubavu,49761,ART-153
+b8a3c85e,Handmade basketry Item 378,Authentic Rwandan basketry made from Cotton.,basketry,Leather,Musanze,13985,ART-147
+5e2730a1,Handmade jewellery Item 379,Authentic Rwandan jewellery made from Beads.,jewellery,Cotton,Rubavu,11358,ART-179
+0c9e24f2,Handmade basketry Item 380,Authentic Rwandan basketry made from Sisal.,basketry,Banana Leaf,Kigali,47427,ART-177
+df3678ef,Handmade leather Item 381,Authentic Rwandan leather made from Cotton.,leather,Cotton,Musanze,45706,ART-120
+13438566,Handmade home-decor Item 382,Authentic Rwandan home-decor made from Sisal.,home-decor,Sisal,Musanze,21271,ART-144
+108e4dca,Handmade apparel Item 383,Authentic Rwandan apparel made from Leather.,apparel,Sisal,Huye,30256,ART-184
+28a01074,Handmade jewellery Item 384,Authentic Rwandan jewellery made from Beads.,jewellery,Leather,Musanze,48912,ART-124
+8ddd3986,Handmade apparel Item 385,Authentic Rwandan apparel made from Wood.,apparel,Sisal,Nyamirambo,33675,ART-166
+5910616f,Handmade jewellery Item 386,Authentic Rwandan jewellery made from Sisal.,jewellery,Banana Leaf,Musanze,36864,ART-164
+3d97f388,Handmade basketry Item 387,Authentic Rwandan basketry made from Leather.,basketry,Cotton,Rubavu,32718,ART-188
+e631ba20,Handmade jewellery Item 388,Authentic Rwandan jewellery made from Sisal.,jewellery,Wood,Kigali,44660,ART-109
+26a15613,Handmade basketry Item 389,Authentic Rwandan basketry made from Cotton.,basketry,Cotton,Rubavu,9957,ART-200
+830bf471,Handmade basketry Item 390,Authentic Rwandan basketry made from Sisal.,basketry,Beads,Rubavu,49996,ART-144
+b84bdce8,Handmade home-decor Item 391,Authentic Rwandan home-decor made from Cotton.,home-decor,Wood,Rubavu,14102,ART-186
+4fe1e8ea,Handmade home-decor Item 392,Authentic Rwandan home-decor made from Wood.,home-decor,Beads,Huye,20893,ART-112
+880d2fe9,Handmade basketry Item 393,Authentic Rwandan basketry made from Banana Leaf.,basketry,Cotton,Kigali,29890,ART-188
+7cd1b7ac,Handmade leather Item 394,Authentic Rwandan leather made from Beads.,leather,Cotton,Huye,25078,ART-114
+44a6d515,Handmade jewellery Item 395,Authentic Rwandan jewellery made from Wood.,jewellery,Banana Leaf,Rubavu,38514,ART-128
+01e0cf76,Handmade leather Item 396,Authentic Rwandan leather made from Sisal.,leather,Leather,Huye,13912,ART-166
+d010b59f,Handmade home-decor Item 397,Authentic Rwandan home-decor made from Beads.,home-decor,Cotton,Kigali,39426,ART-136
+865ebaa3,Handmade home-decor Item 398,Authentic Rwandan home-decor made from Leather.,home-decor,Sisal,Musanze,16162,ART-134
+f2bba169,Handmade home-decor Item 399,Authentic Rwandan home-decor made from Beads.,home-decor,Cotton,Rubavu,36057,ART-167
